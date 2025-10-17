@@ -167,19 +167,19 @@ function createToolbar() {
   };
   ScriptManager.addAction(showDialogAction);
 
-  var favoriteToolbar = new ScriptToolbarDef({
+  var toolbar = new ScriptToolbarDef({
     id: "org.harmony-stylesheets.StylesheetsToolbar",
     text: "Stylesheets",
     customizable: false
   });
 
-  favoriteToolbar.addButton({
+  toolbar.addButton({
     text: showDialogAction.text,
     icon: showDialogAction.icon,
     checkable: showDialogAction.checkable,
     action: showDialogAction.id
   });
-  ScriptManager.addToolbar(favoriteToolbar);
+  ScriptManager.addToolbar(toolbar);
 }
 
 function configure(packageFolder, packageName) {
