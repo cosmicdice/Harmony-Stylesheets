@@ -29,6 +29,9 @@ For example, for me (on macOS and Harmony Premium 25), it looks like this:
 
 In Harmony, open the 'Windows' Menu, then add the 'Stylesheets' Toolbar to your workspace. You should be able to open the Stylesheets manager dialog from the toolbar.
 
+<img height="250" alt="Screenshot 2025-10-17 at 15 50 58" src="https://github.com/user-attachments/assets/0c063ae7-96dc-442a-95a4-cbdba8c4ca75" />
+<img height="250" alt="Screenshot 2025-10-17 at 13 43 23" src="https://github.com/user-attachments/assets/95d5615a-98ae-4ab0-bd24-bc53a3aab13e" />
+
 From there you can manage the qss files applied to your workspaces by drag and dropping or double clicking on an item. Click on the Apply button to see the changes and save them in the configuration file.
 
 The order matters as the QSS files are concatenated from top to bottom before being applied. Last file's stylings take precedence.
@@ -89,6 +92,13 @@ Please keep in mind this is provided AS IS and is not an official or commerciall
 ### Storyboard Pro
 
 This package is currently untested with Storyboard Pro. Some of this may work with it as they are similar programs, but I don't currently have a license to test it.
+
+## Included Stylesheets
+
+### Mu-dark
+A more modern and flatter dark theme replacement.
+
+<img height="250" alt="Screenshot 2025-10-17 at 17 53 39" src="https://github.com/user-attachments/assets/20b53f55-798a-4682-bf1c-a57abe1f3955" />
 
 ## Contributing
 
