@@ -95,10 +95,11 @@ This package is currently untested with Storyboard Pro. Some of this may work wi
 
 ## Included Stylesheets
 
-### Mu-dark
-A more modern and flatter dark theme replacement.
+### Mu-dark, Mu-blue-dark
+A more modern and flatter dark theme replacement. Also a blue version with full color replacement.
 
-<img height="250" alt="Screenshot 2025-10-17 at 17 53 39" src="https://github.com/user-attachments/assets/20b53f55-798a-4682-bf1c-a57abe1f3955" />
+<img height="300" alt="Screenshot 2025-10-17 at 17 53 39" src="https://github.com/user-attachments/assets/20b53f55-798a-4682-bf1c-a57abe1f3955" />
+<img height="300" alt="Screenshot 2025-10-18 at 15 27 58" src="https://github.com/user-attachments/assets/2efa1d08-63f4-4df1-8752-5005ee2bbdac" />
 
 ## Contributing
 
