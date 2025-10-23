@@ -210,8 +210,6 @@ TL_StyleDelegate {
     qproperty-grayLight: rgb(100, 120, 140);
     qproperty-grayDark: rgb(32, 40, 48);
 
-    /*qproperty-selectionLayer:  rgb(180, 200, 220);*/
-
     qproperty-trackBackGround: rgb(100, 120, 140);
     qproperty-trackBackGroundAlternate: rgb(64, 72, 80);
 
