@@ -13,12 +13,14 @@ QFrame,
 QTreeView,
 QHeaderView,
 QHeaderView::section,
-QAbstractView,
 QAbstractItemView,
 QAbstractView {
     background-color: rgb(72, 48, 24);
 }
 
+QToolBar > * {
+    background-color: rgb(100, 60, 30);
+}
 
 QToolBar {
     border-color: rgb(160, 100, 60);
@@ -64,11 +66,14 @@ QPushButton {
     padding-left: 8px;
 }
 
-QToolButton:hover, QPushButton :hover {
+QToolButton:hover,
+QPushButton:hover {
     background-color: rgb(160, 100, 60);
 }
 
-QToolButton:checked, QPushButton:checked, QPushButton:focus {
+QToolButton:checked,
+QPushButton:checked,
+QPushButton:focus {
     background-color: rgb(72, 48, 24);
 }
 
@@ -138,7 +143,6 @@ QScrollBar::right-arrow:horizontal {
     border-radius: 2px;
     border-color: rgb(72, 48, 24);
 }
-
 
 /* Controls */
 
@@ -222,5 +226,4 @@ TL_StyleDelegate {
     qproperty-groupBackground: rgb(100, 60, 30);
     qproperty-groupBackgroundDarker: rgb(72, 48, 24);
     qproperty-layerParamBackground: rgb(100, 60, 30);
-
 }
