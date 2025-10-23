@@ -102,28 +102,8 @@ Also, a handful of color variations provided by [@rickrigs](https://github.com/r
 
 <img height="500" alt="Screenshot 2025-10-17 at 17 53 39" src="https://github.com/user-attachments/assets/20b53f55-798a-4682-bf1c-a57abe1f3955" />
 
-<img width="250" alt="Screenshot 2025-10-23 at 10 48 08" src="https://github.com/user-attachments/assets/02afd0f8-86c8-48ce-95dd-13212a2d90c4" />
-<img width="250" alt="Screenshot 2025-10-23 at 10 47 50" src="https://github.com/user-attachments/assets/68484841-7ce0-45c7-be42-7f04960a8038" />
-<img width="250" alt="Screenshot 2025-10-23 at 10 47 28" src="https://github.com/user-attachments/assets/9f907d55-5414-4a09-b6ac-370c1cba676f" />
-<img width="250" alt="Screenshot 2025-10-23 at 10 47 11" src="https://github.com/user-attachments/assets/e18513b8-1078-44c4-b6f3-316d7926740b" />
-<img width="250" alt="Screenshot 2025-10-23 at 10 46 52" src="https://github.com/user-attachments/assets/00437cc4-5217-4c21-8f66-6e355276a9e4" />
-<img width="250" alt="Screenshot 2025-10-23 at 10 46 40" src="https://github.com/user-attachments/assets/122cbfb9-4a2e-44c8-a026-129b8b86ddf6" />
-<img width="250" alt="Screenshot 2025-10-23 at 10 46 30" src="https://github.com/user-attachments/assets/bd7e49de-2ac2-45d3-9147-0526c3e10ffb" />
-<img width="250" alt="Screenshot 2025-10-23 at 10 46 17" src="https://github.com/user-attachments/assets/aa9167ef-977f-482d-8280-2f86e5b5ce4c" />
-<img width="250" alt="Screenshot 2025-10-23 at 10 46 01" src="https://github.com/user-attachments/assets/9b9bf1af-ade8-42ed-b8d6-638336c01fe8" />
-<img width="250" alt="Screenshot 2025-10-23 at 10 45 50" src="https://github.com/user-attachments/assets/ac5ef11c-325c-4e8e-ab73-3169fa123be8" />
-<img width="250" alt="Screenshot 2025-10-23 at 10 45 33" src="https://github.com/user-attachments/assets/a25f205a-7392-46db-be2e-db213022cbc0" />
-<img width="250" alt="Screenshot 2025-10-23 at 10 45 17" src="https://github.com/user-attachments/assets/f622d764-867c-4bc7-baa0-26fd09d7a3f1" />
-<img width="250" alt="Screenshot 2025-10-23 at 10 45 02" src="https://github.com/user-attachments/assets/f35003b4-15de-4ab0-beeb-764a0523647e" />
-<img width="250" alt="Screenshot 2025-10-23 at 10 44 44" src="https://github.com/user-attachments/assets/6fd3f948-4ce6-4b5e-9a10-9ef3bafa82ca" />
-<img width="250" alt="Screenshot 2025-10-23 at 10 44 27" src="https://github.com/user-attachments/assets/bddc9395-82d5-40a4-8545-25417d8c68f7" />
-<img width="250" alt="Screenshot 2025-10-23 at 10 44 12" src="https://github.com/user-attachments/assets/61a58129-e6f9-44a3-b22b-349b9b8f66ed" />
-<img width="250" alt="Screenshot 2025-10-23 at 10 43 56" src="https://github.com/user-attachments/assets/0739a6e3-4ceb-4e6c-a7c5-dd981336e687" />
-<img width="250" alt="Screenshot 2025-10-23 at 10 43 37" src="https://github.com/user-attachments/assets/59e06ff6-c5ee-4a06-bc84-066b749db28d" />
-<img width="250" alt="Screenshot 2025-10-23 at 10 43 24" src="https://github.com/user-attachments/assets/da520a8b-6214-4ea0-a249-8c5cafc2445b" />
-<img width="250" alt="Screenshot 2025-10-23 at 10 43 05" src="https://github.com/user-attachments/assets/f0aeb414-4cd9-4171-85d8-ba3e3131d290" />
-<img width="250" alt="Screenshot 2025-10-23 at 10 41 58" src="https://github.com/user-attachments/assets/424e5b15-dc0d-4b35-91ae-0452ae4e9f93" />
-<img width="250" alt="Screenshot 2025-10-17 at 17 53 39" src="https://github.com/user-attachments/assets/16c9b5ca-d4fa-488d-aa85-40b9ce734c8d" />
+<img height="500" alt="colors" src="https://github.com/user-attachments/assets/a7b0f790-7c03-4d79-83f3-0a6ea0262c3e" />
+
 
 
 ## Contributing
