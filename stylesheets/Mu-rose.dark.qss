@@ -1,0 +1,228 @@
+/*
+ * Mublu Style sheet for Toonboom Harmony
+ * Author: Antoni Galmiche
+ *
+ * This Source Code Form is subject to the terms of the Mozilla Public
+ * License, v. 2.0. If a copy of the MPL was not distributed with this
+ * file, You can obtain one at https://mozilla.org/MPL/2.0/.
+*/
+
+QMainWindow,
+QWidget,
+QFrame,
+QTreeView,
+QHeaderView,
+QHeaderView::section,
+QAbstractView,
+QAbstractItemView,
+QAbstractView {
+    background-color: rgb(64, 40, 56);
+}
+
+
+QToolBar {
+    border-color: rgb(128, 96, 120);
+    background-color: rgb(96, 64, 88);
+    border-width: 2px;
+    border-radius: 6px;
+    margin: 1px;
+    padding: 2px;
+}
+
+QToolBar::handle {
+    height: 10px;
+    width: 10px;
+    background-color: rgb(128, 96, 120);
+    border-color: rgb(128, 96, 120);
+    border-radius: 3px;
+}
+
+QToolBar::handle:horizontal {
+    border-top-right-radius: 0px;
+    border-bottom-right-radius: 0px;
+    margin-right: 2px;
+    margin-left: 0px
+}
+
+QToolBar::handle:vertical {
+    border-bottom-left-radius: 0px;
+    border-bottom-right-radius: 0px;
+    margin-bottom: 2px;
+    margin-top: 0px
+}
+
+QToolButton {
+    border-radius: 2px;
+    background-color: rgb(96, 64, 88);
+}
+
+QPushButton {
+    background-color: rgb(96, 64, 88);
+    border-radius: 2px;
+    border-color: rgb(200, 160, 200);
+    padding-right: 8px;
+    padding-left: 8px;
+}
+
+QToolButton:hover, QPushButton :hover {
+    background-color: rgb(128, 96, 120);
+}
+
+QToolButton:checked, QPushButton:checked, QPushButton:focus {
+    background-color: rgb(64, 40, 56);
+}
+
+QTabBar {
+    background-color: rgb(64, 40, 56);
+}
+
+QTabBar::tab {
+    background-color: rgb(96, 64, 88);
+    border-color: rgb(128, 96, 120);
+}
+
+QTabBar::tab:selected {
+    background-color: rgb(64, 40, 56);
+}
+
+/* Scrollbars */
+
+QScrollBar:horizontal,
+QScrollBar:vertical {
+    background-color: rgb(64, 40, 56);
+    border: none;
+}
+
+QScrollBar:vertical {
+    border-left-style: solid;
+    border-width: 1px;
+    border-color: rgb(13, 13, 13);
+}
+
+QScrollBar:horizontal {
+    border-top-style: solid;
+    border-width: 1px;
+    border-color: rgb(13, 13, 13);
+}
+
+QScrollBar::handle:horizontal,
+QScrollBar::handle:vertical {
+    background-color: rgb(128, 96, 120);
+    border-color: rgb(64, 40, 56);
+    border-radius: 4px;
+}
+
+QScrollBar::sub-line:horizontal,
+QScrollBar::sub-line:vertical,
+QScrollBar::add-line:horizontal,
+QScrollBar::add-line:vertical {
+    background-color: rgb(64, 40, 56);
+    border: none;
+}
+
+QScrollBar::add-page:vertical,
+QScrollBar::add-page:horizontal,
+QScrollBar::sub-page:vertical,
+QScrollBar::sub-page:horizontal {
+    background-color: rgb(64, 40, 56);
+    border: none;
+}
+
+QScrollBar::up-arrow:vertical,
+QScrollBar::down-arrow:vertical,
+QScrollBar::left-arrow:horizontal,
+QScrollBar::right-arrow:horizontal {
+    background-color: rgba(200, 150, 210, 0.5);
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 2px;
+    border-color: rgb(64, 40, 56);
+}
+
+
+/* Controls */
+
+QComboBox,
+QComboBox::drop-down,
+QComboBox::separator,
+QLineEdit,
+QTextEdit,
+QSpinBox {
+    background-color: rgb(64, 40, 56);
+    border-color: rgb(128, 96, 120);
+    border-style: solid;
+    border-radius: 4px;
+    min-height: 12px;
+}
+
+QLabel {
+    background-color: transparent;
+}
+
+QLineEdit:focus,
+QSpinBox:focus {
+    border-color: rgb(200, 160, 200);
+}
+
+QSpinBox::down-button,
+QSpinBox::up-button {
+    border-color: rgb(128, 96, 120);
+    border-style: solid;
+    border-radius: 2px;
+}
+
+QSlider::groove:vertical,
+QSlider::groove:horizontal {
+    background-color: rgb(64, 40, 56);
+    border-radius: 4px;
+}
+
+QGroupBox {
+    background-color: rgb(64, 40, 56);
+}
+
+QSlider::handle:vertical,
+QSlider::handle:horizontal {
+    background-color: rgb(200, 160, 200);
+}
+
+QSlider::groove {
+    border-color: rgb(128, 96, 120);
+    border-radius: 4px;
+}
+
+QSplitter::handle {
+    background-color: rgb(96, 64, 88);
+    width: 6px;
+    height: 6px;
+    border-color: rgb(200, 160, 200);
+}
+
+/* Timeline */
+
+TL_StyleDelegate {
+    qproperty-faceDark: rgb(48, 24, 40);
+    qproperty-face: rgb(64, 40, 56);
+    qproperty-hilight: rgb(128, 96, 120);
+    qproperty-shadow: rgb(48, 24, 40);
+    qproperty-shadowDark: rgb(24, 12, 20);
+    qproperty-ruler: rgb(128, 96, 120);
+    qproperty-grayLight: rgb(128, 96, 120);
+    qproperty-grayDark: rgb(48, 24, 40);
+
+    /*qproperty-selectionLayer:  rgb(200, 160, 200);*/
+
+    qproperty-trackBackGround: rgb(128, 96, 120);
+    qproperty-trackBackGroundAlternate: rgb(96, 64, 88);
+
+    qproperty-drawing: rgb(128, 96, 120);
+    qproperty-symbol: rgb(128, 96, 120);
+
+    /*qproperty-selectionLayer: rgb(200, 160, 200);*/
+    qproperty-selectionCell: rgb(200, 160, 200);
+
+    qproperty-groupBackground: rgb(96, 64, 88);
+    qproperty-groupBackgroundDarker: rgb(64, 40, 56);
+    qproperty-layerParamBackground: rgb(96, 64, 88);
+
+}
