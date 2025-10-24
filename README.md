@@ -102,8 +102,7 @@ Also, a handful of color variations provided by [@rickrigs](https://github.com/r
 
 <img height="500" alt="Screenshot 2025-10-17 at 17 53 39" src="https://github.com/user-attachments/assets/20b53f55-798a-4682-bf1c-a57abe1f3955" />
 
-<img height="500" alt="colors" src="https://github.com/user-attachments/assets/a7b0f790-7c03-4d79-83f3-0a6ea0262c3e" />
-
+<img height="500" alt="colors" src="https://github.com/user-attachments/assets/75d8c554-0adb-4bec-ba29-2eaf030efe2d" />
 
 
 ## Contributing
